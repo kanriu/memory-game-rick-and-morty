@@ -12,7 +12,7 @@ describe("Test in useCharacters Hook", () => {
     expect(loading).toBeTruthy();
     expect(characters).toBeUndefined();
   });
-  test("should return loading in true and characters with content", async () => {
+  test("should return loading in false and characters with content", async () => {
     const { result } = renderHook(() =>
       useCharacters(addCharacters, apiUrl, true)
     );

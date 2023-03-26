@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.19938341.css",
+    "main.js": "/static/js/main.e5638425.js",
+    "static/js/787.0625df85.chunk.js": "/static/js/787.0625df85.chunk.js",
+    "static/media/ricky_morty_img.svg": "/static/media/ricky_morty_img.565c4d09e75a23534b5688b5bae728e5.svg",
+    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/ricky_morty_logo.svg": "/static/media/ricky_morty_logo.42f3abb694d401c906eed2bf78133c74.svg",
+    "index.html": "/index.html",
+    "main.19938341.css.map": "/static/css/main.19938341.css.map",
+    "main.e5638425.js.map": "/static/js/main.e5638425.js.map",
+    "787.0625df85.chunk.js.map": "/static/js/787.0625df85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19938341.css",
+    "static/js/main.e5638425.js"
+  ]
+}
