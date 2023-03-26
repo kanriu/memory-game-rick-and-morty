@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/memory-game-rick-and-morty/static/css/main.3adb5601.css",
+    "main.js": "/memory-game-rick-and-morty/static/js/main.f87b5dba.js",
+    "static/js/787.0625df85.chunk.js": "/memory-game-rick-and-morty/static/js/787.0625df85.chunk.js",
+    "static/media/ricky_morty_img.svg": "/memory-game-rick-and-morty/static/media/ricky_morty_img.565c4d09e75a23534b5688b5bae728e5.svg",
+    "static/media/Montserrat-SemiBold.ttf": "/memory-game-rick-and-morty/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/Montserrat-Medium.ttf": "/memory-game-rick-and-morty/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/Montserrat-Bold.ttf": "/memory-game-rick-and-morty/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
+    "static/media/Montserrat-Regular.ttf": "/memory-game-rick-and-morty/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/ricky_morty_logo.svg": "/memory-game-rick-and-morty/static/media/ricky_morty_logo.42f3abb694d401c906eed2bf78133c74.svg",
+    "index.html": "/memory-game-rick-and-morty/index.html",
+    "main.3adb5601.css.map": "/memory-game-rick-and-morty/static/css/main.3adb5601.css.map",
+    "main.f87b5dba.js.map": "/memory-game-rick-and-morty/static/js/main.f87b5dba.js.map",
+    "787.0625df85.chunk.js.map": "/memory-game-rick-and-morty/static/js/787.0625df85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3adb5601.css",
+    "static/js/main.f87b5dba.js"
+  ]
+}
