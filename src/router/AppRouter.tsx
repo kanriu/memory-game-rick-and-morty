@@ -8,7 +8,7 @@ export const AppRouter = () => {
       <Header />
       <div className="container">
         <Routes>
-          <Route path="memory-game-rick-and-morty/home" element={<Home />} />
+          <Route path="memory-game-rick-and-morty/" element={<Home />} />
           <Route path="memory-game-rick-and-morty/game" element={<Game />} />
           <Route
             path="memory-game-rick-and-morty/result"
@@ -16,7 +16,7 @@ export const AppRouter = () => {
           />
           <Route
             path="/*"
-            element={<Navigate to="/memory-game-rick-and-morty/home" />}
+            element={<Navigate to="/memory-game-rick-and-morty/" />}
           />
         </Routes>
       </div>

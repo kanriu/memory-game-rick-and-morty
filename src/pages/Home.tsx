@@ -17,7 +17,7 @@ export const Home = () => {
 
   const onNavigate = () => {
     // Navega a la pagina game
-    navigate("/game");
+    navigate("/memory-game-rick-and-morty/game");
   };
 
   return (

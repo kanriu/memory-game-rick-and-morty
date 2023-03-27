@@ -25,7 +25,7 @@ export const Game = () => {
     se va añadir los turnos al estado global(turns), y redirigir a la pagina "result"
     */ else if (puntuation.hits === charactersFlip.length / 2) {
       addTurns(puntuation.turns);
-      navigate("/result");
+      navigate("/memory-game-rick-and-morty/result");
     }
   }, [puntuation.hits]);
 
